@@ -1,0 +1,1 @@
+package ouanfind.com.bean;public class Findusers_findusers_sex_dict_finddictionary_finddictionary_value {       private String      dm;      private String      sm; public String getDm() {     return dm; } public void setDm(String dm) {     this.dm = dm; } public String getSm() {     return sm; } public void setSm(String sm) {     this.sm = sm; }}
